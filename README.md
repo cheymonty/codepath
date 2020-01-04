@@ -3,7 +3,7 @@
 ### App Description
 This is a beginners app which utilizes simple Objects
 
-### App Walk-though
+### App Walk-through
 
 <img src="gifrecording.gif" width=200><br>
 
